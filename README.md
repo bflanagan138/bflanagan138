@@ -1,16 +1,15 @@
 ### Please, allow me to introduce myself...
 <h1> Bryan Flanagan - He/Him </h1>
 
-[Email Me!](bryan.d.flanagan@gmail.com)
-
-[Find Me on LinkedIn!](https://linkedin.com/in/bryanflanagan138)
-
-
 ### **:computer: Software Developer, Based in Denver, CO, USA**
 #### :musical_note: Musician  
 #### :dog2: Animal Lover  
 #### :motorcycle: Motorcyclist  
 #### :flight_departure: Traveller 
+
+### [Email Me!](mailto:bryan.d.flanagan@gmail.com)
+
+### [Find Me on LinkedIn!](https://linkedin.com/in/bryanflanagan138)
 
 ## Skills 
 <p align="center">
@@ -25,8 +24,7 @@
 <img height="40"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img height="40"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </p>
-
-
+                                                                                                  
 ### ⚡ Fun fact: I was in a kid's toy commercial, you can watch it here: 
 [![Watch the video](https://img.youtube.com/vi/e32aD0tG-OM/maxresdefault.jpg)](https://youtu.be/e32aD0tG-OM)
 
