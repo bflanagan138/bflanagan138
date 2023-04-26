@@ -2,10 +2,10 @@
 <h1> Bryan Flanagan - He/Him </h1>
 
 ### **:computer: Software Developer, Based in Denver, CO, USA**
-:musical_note: Musician  
-:dog2: Animal Lover  
-:motorcycle: Motorcyclist  
-:flight_departure: Traveller 
+#### :musical_note: Musician  
+#### :dog2: Animal Lover  
+#### :motorcycle: Motorcyclist  
+#### :flight_departure: Traveller 
 
 ## Skills 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 
-- ⚡ Fun fact: I was in a kid's toy commercial, you can watch it here: 
+### ⚡ Fun fact: I was in a kid's toy commercial, you can watch it here: 
 [![Watch the video](https://img.youtube.com/vi/e32aD0tG-OM/maxresdefault.jpg)](https://youtu.be/e32aD0tG-OM)
 
 
