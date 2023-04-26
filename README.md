@@ -1,6 +1,11 @@
 ### Please, allow me to introduce myself...
 <h1> Bryan Flanagan - He/Him </h1>
 
+[Email Me!](bryan.d.flanagan@gmail.com)
+
+[Find Me on LinkedIn!](https://linkedin.com/in/bryanflanagan138)
+
+
 ### **:computer: Software Developer, Based in Denver, CO, USA**
 #### :musical_note: Musician  
 #### :dog2: Animal Lover  
