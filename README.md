@@ -2,8 +2,8 @@
 <h1> Bryan Flanagan - He/Him </h1>
 
 ### **:computer: Software Developer, Based in Denver, CO, USA**
-#### :musical_note: Musician  
-#### :dog2: Animal Lover  
+#### :musical_note: Musician @ [Weathered Statues](https://weatheredstatues1.bandcamp.com/)
+#### :dog2: Animal Lover
 #### :motorcycle: Motorcyclist  
 #### :flight_departure: Traveller 
 
